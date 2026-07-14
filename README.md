@@ -77,6 +77,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AWS Nova Canvas](https://github.com/awslabs/mcp/tree/main/src/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+- **[BDE Score](https://github.com/hbhqq9/bde-score)** - EU AI Act Art.50 compliant business due diligence scoring. Rule-based + LLM-enhanced multi-factor analysis for stocks, sectors, and cross-market comparison (US/HK/A-Share). Free, open-source.
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
