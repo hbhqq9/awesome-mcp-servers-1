@@ -69,6 +69,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
+- **[BDE Score](https://github.com/hbhqq9/bde-score)** - AI governance scoring engine with EU AI Act Art.50 compliance. Evaluates AI system transparency, accountability and trustworthiness via MCP protocol.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
 - **[Bright Data](https://github.com/brightdata/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
